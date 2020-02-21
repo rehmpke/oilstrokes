@@ -1,0 +1,44 @@
+{% include head.html %}
+  <header class="content-fluid">
+    <div class="row align-items-center justify-content-center mt-4">
+      <div class="col text-center">
+        <h1>Roger&nbsp;Ehmpke <span>Oil&nbsp;Painter</span></h1>
+      </div>
+    </div>
+  </header>
+  <section class="container-fluid">
+    <div class="row align-items-center justify-content-center mt-2">
+      <div class="col text-center">
+        <p>I Will have more shortly! redesigning this site.</p>
+        <img src="/assets/img/rachel_verdaccio_large2.jpg" alt="Painting of my wife Rachel" />
+        <img src="/assets/img/verdaccio_me2.jpg" class="me-working-rachel" alt="Roger Ehmpke painting wife in Verdaccio" />
+      </div>
+    </div>
+  </section>
+  <aside class="mailing-list container-fluid" id="ContactMe">
+    <div class="row align-items-center justify-content-center">
+      <div class="col-lg-4 col-md-4">
+        <form action="https://formspree.io/roger@oilstrokes.com" method="POST" style="margin:0 auto;">
+          <div class="text-center mb-4">
+            <h2 style="color:#eee;">Contact</h2>
+            <p style="color:#eee;">Contact me to discuss Oil Painting opportunities. I look forward to hearing from you!
+            </p>
+          </div>
+          <div class="form-group">
+            <input class="form-control" id="name" type="text" name="name" placeholder="Name" required=""><label
+              for="name">Name</label></div>
+          <div class="form-group"><input class="form-control" id="email" type="email" name="_replyto" placeholder="Email"
+              required=""><label for="email">Email Address</label></div>
+          <div class="form-group"><textarea class="form-control" id="message" name="message"
+              placeholder="Write a message"></textarea><label for="message">Message</label></div><button
+            class="btn btn-lg btn-primary btn-block" type="submit">Send</button>
+        </form>
+      </div>
+    </div>
+  </aside>
+    {{ content }}
+    {% include footer.html %}
+    {% include scripts/vendor-cdn.html %}
+{% include foot.html %}
+
+

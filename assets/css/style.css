@@ -1,0 +1,31 @@
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-family: 'Rock Salt', cursive;
+}
+
+h1 span {
+  color: #ce9389;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.btn-primary {
+  background-color: #915D4F;
+  border-color: #915D4F;
+}
+
+.me-working-rachel {
+  z-index: 2;
+  position: absolute;
+  left: 180px;
+  top: 30%;
+  max-width: 300px;
+  border: 11px solid #877e79;
+  -webkit-box-shadow: 0px 1px 6px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 1px 6px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 1px 6px 0px rgba(0, 0, 0, 0.75);
+}
