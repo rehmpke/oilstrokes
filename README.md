@@ -1,5 +1,6 @@
 # oilstrokes
 
+![Deploy](https://github.com/rehmpke/oilstrokes/actions/workflows/deploy.yml/badge.svg)
 ![Node Version](https://img.shields.io/badge/Node-22.15.0-339933?style=flat&logo=node.js&logoColor=white)
 ![Jekyll](https://img.shields.io/badge/Jekyll-4.x-CC0000?style=flat&logo=jekyll&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-S3%20%2B%20CloudFront-ff9900?style=flat&logo=amazonaws&logoColor=white)
