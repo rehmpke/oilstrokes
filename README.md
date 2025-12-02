@@ -3,8 +3,12 @@
 ![Deploy](https://github.com/rehmpke/oilstrokes/actions/workflows/deploy.yml/badge.svg)
 ![Node Version](https://img.shields.io/badge/Node-22.15.0-339933?style=flat&logo=node.js&logoColor=white)
 ![Jekyll](https://img.shields.io/badge/Jekyll-4.x-CC0000?style=flat&logo=jekyll&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-S3%20%2B%20CloudFront-ff9900?style=flat&logo=amazonaws&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-3.3.4-CC342D?style=flat&logo=ruby&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS-S3-orange?style=flat&logo=amazonaws&logoColor=white)
+![CloudFront](https://img.shields.io/badge/AWS-CloudFront-92278F?style=flat&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey?style=flat)
+
 
 This repository powers **oilstrokes.com**, a minimalist Jekyll-based showcase of Roger Ehmpke’s traditional oil portrait work. The site emphasizes clean markup, strong accessibility practices, fast performance, and zero-framework dependency for maximal longevity.
 
