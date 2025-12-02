@@ -118,6 +118,18 @@ oilstrokes/
 
 ---
 
+## 📜 Changelog
+
+### 2025-12-01
+- Added GitHub Actions deploy pipeline
+- Updated documentation and README
+- Improved Jekyll config and AWS setup
+
+### 2020-02-21
+- Initial launch of oilstrokes.com
+
+---
+
 ## 🔒 License
 
 © 2025 Roger Ehmpke. All rights reserved.
