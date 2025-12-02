@@ -14,7 +14,9 @@ This repository powers **oilstrokes.com**, a minimalist Jekyll-based showcase of
 
 Deployment is handled through an automated GitHub Actions → S3 → CloudFront pipeline, enabling fast and reliable pushes from the `master` branch with instant CDN cache invalidation.
 
-![oilstrokes screenshot](https://oilstrokes.com/assets/img/rachel_verdaccio_large2.jpg)
+<p align="center">
+  <img src="https://oilstrokes.com/assets/img/rachel_verdaccio_large2.jpg" width="600" />
+</p>
 
 ---
 
