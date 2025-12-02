@@ -4,7 +4,7 @@ google-tag_key: 'GTM-WVC2GK2'
 description: > # this means to ignore newlines until "baseurl:"
   "Oil strokes, Oil painting website"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.oilstrokes.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rehmpke
 github_username:  rehmpke
 author : Roger Ehmpke
